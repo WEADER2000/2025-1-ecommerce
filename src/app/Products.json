@@ -1,0 +1,17 @@
+[
+    {"id_Product":1, "name": "Gundam Epyon", "price": 150, "image": "/img/books/Romper el circul.jpg" },
+    { "id_Product":2,"name": "G self Gundam", "price": 250 , "image": "/img/books/ugly love.jpg" },
+    { "id_Product":3,"name": "Zeta Gundam", "price":  260 , "image": "/img/books/volver a empezar.jpg" },
+    { "id_Product":4,"name": "Strike Fredom Gundam", "price": 160 , "image": "/img/books/nosotros en la luna.jpg" },
+    { "id_Product":5,"name": "Gundam Barbatos", "price":  165 , "image": "/img/books/Como hacer que te pasen cosas buenas.jpeg" },
+    { "id_Product":6,"name": "Burning Gundam", "price":  645 , "image": "/img/books/Cuentos completos.jpg" },
+    { "id_Product":7,"name": "Gquxxx", "price":  164 , "image": "/img/books/El mapa de los anhelos.jpg" },
+    { "id_Product":8,"name": "Gundam Exia", "price":  464 , "image": "/img/books/La encrucijada.jpg" },
+    { "id_Product":9,"name": "Zaku II", "price": 465, "image": "/img/books/Hijos de la fabula.jpg" },
+    { "id_Product":10,"name": "Unicorn Gundam", "price":  126 ,  "image": "/img/books/La biblioteca de Auschwitz.jpg" },
+    { "id_Product":11,"name": "Nu Gundam", "price":  135 , "image": "/img/books/Tu sueño imperios han sido .jpeg" },
+    { "id_Product":12,"name": "Sinanju", "price":  614 , "image": "/img/books/La ultima casa.jpg" },
+    { "id_Product":13,"name": "Sasabi", "price":  135 , "image": "/img/books/Los siguientes.jpg" },
+    { "id_Product":14,"name": "Turn A Gundam", "price":  547 , "image": "/img/books/silencios que matan .jpeg" },
+    { "id_Product":15,"name": "Gundam Aerial", "price":  365 , "image": "/img/books/cordillera.jpeg" }
+]
